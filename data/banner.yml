@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "onload-image-fade-in onload-content-fade-right style5 fullscreen content-align-center image-position-center invert"
+title : "Wausau Bird Club"
+subtitle: |
+  For the love of every feather, we soar together.
+content : |
+  We are currently on Discord, please click the button below to accept our invite and introduce yourself!
+button:
+  label : "Discord"
+  link : "#url"
+image : "images/banner.jpg"
+
