@@ -1,0 +1,5 @@
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'wausau bird club'
+theme = 'hugo-story'
